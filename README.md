@@ -1,4 +1,12 @@
-jp
-==
+#notatka z laboratorium
 
-jezyki programowania
+```sh
+mkdir katalog1
+```
+
+```c
+int main(){
+
+return 0;
+}
+```
